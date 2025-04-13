@@ -1,4 +1,5 @@
-# database-mini-group
+# bookstore_db
+   
 
 Entities & Attributes
 
