@@ -108,3 +108,8 @@ order_history ↔ order_status: M:1
    pls open using the following link
 
 ![alt text](drawio.png)
+
+contributors
+1. Ray Otieno
+2. Bonface Matoke
+3. Joseph Mshana
